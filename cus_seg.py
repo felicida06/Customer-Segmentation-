@@ -17,7 +17,7 @@ cluster_labels = {
 
 # App title and header
 st.set_page_config(page_title="Customer Segment Predictor", layout="centered")
-st.title("🧠 Customer Segmentation with KMeans")
+st.title(" Customer Segmentation with KMeans")
 st.markdown("Use the sliders below to predict the **customer segment** based on gender, age, income, and spending score.")
 
 # Sidebar for inputs
